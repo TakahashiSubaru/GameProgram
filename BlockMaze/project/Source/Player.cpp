@@ -15,5 +15,5 @@ void Player::Update()
 
 void Player::Draw()
 {
-	DrawRectGraph(0, 0, 0, 0, 64, 64, hImage, TRUE);
+	DrawRectGraph(540, 200, 0, 40, 40, 40, hImage, TRUE);
 }
